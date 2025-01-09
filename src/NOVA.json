@@ -1,0 +1,12 @@
+{
+  "chainId": 101,
+  "address": "7UJH6UbAcMANjoqBvmncVq7UK6jX6qQawDKqWDa4Vj3q",
+  "symbol": "NOVA",
+  "name": "NOVA Token",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/enigmaticsloth/NOVA/main/Image/Nova_Solana_logo.png",
+  "tags": ["utility", "stablecoin", "reward", "defi", "exchange"],
+  "extensions": {
+    "website": "https://enigmaticsloth.github.io/NOVA/nova.html"
+  }
+}
